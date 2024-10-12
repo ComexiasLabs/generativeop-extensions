@@ -1,6 +1,6 @@
 {
-  "name": "genop-extensions",
-  "description": "The extensions for GenOp AI www.genop.ai",
+  "name": "generativeop-extensions",
+  "description": "The extensions for Generative Op AI www.generativeop.com",
   "version": "1.0.0",
   "license": "MIT",
   "main": "dist/cjs/index.js",

@@ -1,6 +1,6 @@
-# GenOp AI Extensions
+# Generative Op AI Extensions
 
-Welcome to the **GenOp AI Extensions** repository! This repository is the home of various open-source extensions that can be integrated with the **GenOp AI** app, available at [www.genop.ai](https://www.genop.ai). GenOp is a generative AI platform that allows users to enhance their AI workflows by activating extensions that integrate with external systems, blockchains, or custom features.
+Welcome to the **Generative Op AI Extensions** repository! This repository is the home of various open-source extensions that can be integrated with the **Generative Op AI** app, available at [www.generativeop.com](https://www.generativeop.com). Generative Op is a generative AI platform that allows users to enhance their AI workflows by activating extensions that integrate with external systems, blockchains, or custom features.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to the **GenOp AI Extensions** repository! This repository is the home o
 
 ## About
 
-GenOp Extensions allow users to extend the capabilities of the GenOp AI platform by adding integrations with third-party services, custom functionality, or domain-specific tools. Extensions can be activated through the GenOp app's extension interface, providing additional features to prompts or modifying the behavior of the AI model during the generation process.
+Generative Op Extensions allow users to extend the capabilities of the Generative Op AI platform by adding integrations with third-party services, custom functionality, or domain-specific tools. Extensions can be activated through the Generative Op app's extension interface, providing additional features to prompts or modifying the behavior of the AI model during the generation process.
 
 Each extension is self-contained and can be activated or deactivated by users. Examples include blockchain integrations, third-party API integrations, or custom logic applied to AI-generated prompts.
 
@@ -92,7 +92,7 @@ export interface Extension {
 
 ### Handling Events
 
-Extensions can respond to different events within the GenOp app by defining event handlers:
+Extensions can respond to different events within the Generative Op app by defining event handlers:
 
 onInputDisplaying: Modify or populate input fields before they are displayed.
 onGenerating: Modify the AI prompt before it is generated.
