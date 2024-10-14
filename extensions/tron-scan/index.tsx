@@ -19,8 +19,7 @@ import axios from 'axios';
 const extension: Extension = {
   id: 'tronscan',
   name: 'TRON Scan',
-  description:
-    'Integrate with the TRON blockchain, allowing you to retrieve, analyze, and include TRON-based transaction details in your generated outputs.',
+  description: 'Integrate with the TRON blockchain,  allowing AI access to TRON Scan APIs to respond to your instructions.',
   icon: <Icon width={32} height={32} />,
   category: 'Blockchain',
   propertiesUI: (inputValues, handleInputChange) => (
